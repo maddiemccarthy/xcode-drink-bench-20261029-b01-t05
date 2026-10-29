@@ -1,0 +1,38 @@
+{
+  "name": "Citrus Hour 05",
+  "subtitle": "Three classic citrus cocktails, offline.",
+  "description": "Citrus Hour 05 is a small offline cocktail recipe app with Margarita, Paloma and Whiskey Sour recipes.",
+  "iconURL": "https://raw.githubusercontent.com/maddiemccarthy/xcode-drink-bench-20261029-b01-t05/main/icon.png",
+  "website": "https://github.com/maddiemccarthy/xcode-drink-bench-20261029-b01-t05",
+  "tintColor": "#B84F12",
+  "featuredApps": [
+    "io.altstore.drinkbench.b01.t05.rc8cb8d02c0"
+  ],
+  "apps": [
+    {
+      "name": "Citrus Hour 05",
+      "bundleIdentifier": "io.altstore.drinkbench.b01.t05.rc8cb8d02c0",
+      "developerName": "maddiemccarthy",
+      "subtitle": "Three citrus cocktails, offline.",
+      "localizedDescription": "Browse Margarita, Paloma and Whiskey Sour recipes with ingredient quantities, prep time, glass type and numbered steps. Tap Surprise Me for a different drink. Works fully offline.",
+      "iconURL": "https://raw.githubusercontent.com/maddiemccarthy/xcode-drink-bench-20261029-b01-t05/main/icon.png",
+      "tintColor": "#B84F12",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-10-29T13:54:56-07:00",
+          "size": 77667,
+          "downloadURL": "https://github.com/maddiemccarthy/xcode-drink-bench-20261029-b01-t05/releases/download/v1.0/CitrusHour05.ipa",
+          "localizedDescription": "Initial release.",
+          "minOSVersion": "27.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ]
+}
